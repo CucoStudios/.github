@@ -2,7 +2,7 @@
 CucoStudios is a small group working to create Maps/MLOS for FiveM, with a focus on performance and stability.
 
 ## Documentation
-https://cucostudios.github.io
+https://cucostudios.gitbook.io
 
 ## Our team
 <div align="center">
